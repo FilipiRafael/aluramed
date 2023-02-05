@@ -8,13 +8,11 @@ export default StyleSheet.create({
   },
   subtitulo: {
     fontSize: 16,
-    fontFamily: "Roboto",
     fontWeight: "700",
     color: "#464646",
   },
   detalhes: {
     fontSize: 16,
-    fontFamily: "Roboto",
     fontWeight: "600",
     color: "#6a6a6a",
     marginTop: 10,
@@ -40,7 +38,6 @@ export default StyleSheet.create({
   },
   botaoTexto: {
     fontWeight: "700",
-    fontFamily: "Roboto",
     fontSize: 16,
     color: '#FFFFFF',
   },
@@ -70,7 +67,6 @@ export default StyleSheet.create({
   },
   circuloTexto: {
     fontSize: 20,
-    fontFamily: "Roboto",
     fontWeight: "700",
     color: "#000000",
   },
